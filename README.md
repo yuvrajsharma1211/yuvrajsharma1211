@@ -1,88 +1,115 @@
-<h1 align="center">Hi 👋, I'm Youraj Sharma</h1>
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm <span style="color:#00BFFF;">Yuvraj Sharma</span>
+</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Software+Developer;DSA+Enthusiast;Full+Stack+Developer;Problem+Solver" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer;Full+Stack+Developer;DSA+Enthusiast;Problem+Solver;Java+%7C+React+%7C+Node.js" />
 </p>
 
-<h3 align="center">💻 Passionate Software Developer from India</h3>
-
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=yuvrajsharma1211&label=Profile%20views&color=0e75b6&style=flat"/>
+
+<img src="https://komarev.com/ghpvc/?username=yuvrajsharma1211&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/yuvrajsharma1211?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/yuvrajsharma1211?style=for-the-badge"/>
+
 </p>
 
 ---
 
 # 🚀 About Me
 
-* 🎓 Computer Science Student
-* 💡 Strong interest in **Data Structures, Algorithms & System Design**
-* 💻 Passionate about **Full Stack Development**
-* 🧠 Regularly solving problems on **LeetCode, Codeforces & GeeksforGeeks**
-* 🔭 Currently working on **Java-based projects and backend systems**
-* 🌱 Learning **Advanced DSA and scalable backend architecture**
+<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+🎓 Computer Science Student
+
+💻 Passionate Full Stack Developer
+
+🧠 Strong in Data Structures & Algorithms
+
+🔥 Solving problems on LeetCode & Codeforces
+
+⚡ Building scalable backend systems
+
+🌱 Currently learning
+
+- Advanced DSA
+- System Design
+- Java Backend
+- Docker
+- AWS
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/yuvraj-sharma-5a8603291">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/yuvraj_as9001">
-<img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" height="40"/>
-</a>
-
-<a href="https://codeforces.com/profile/yuvii12">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" height="40"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
 <a href="https://leetcode.com/u/warrior01_/">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" height="40"/>
+<img src="https://skillicons.dev/icons?i=leetcode" width="55"/>
+</a>
+
+<a href="https://codeforces.com/profile/yuvii12">
+<img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="55"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/user/yuv_raaj1212">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" height="40"/>
+<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="55"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/yuvraj_as9001">
+<img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="55"/>
 </a>
 
 </p>
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
-### 💻 Languages
+## Languages
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript"/>
 </p>
 
-### 🌐 Web Development
+## Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react"/>
 </p>
 
-### 🗄 Databases
+## Backend
 
-<p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,php"/>
+</p>
+
+## Database
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
-### ⚙️ Tools & Technologies
+## Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,linux,docker,aws"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,aws,vscode"/>
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yuvrajsharma1211&theme=algolia&margin-w=15&margin-h=15"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=yuvrajsharma1211&theme=algolia&no-frame=true&column=4"/>
+
 </p>
 
 ---
@@ -91,15 +118,15 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuvrajsharma1211&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yuvrajsharma1211&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajsharma1211&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajsharma1211&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajsharma1211&layout=compact&theme=tokyonight"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajsharma1211&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -108,7 +135,9 @@
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajsharma1211&theme=tokyo-night"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajsharma1211&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
@@ -126,15 +155,53 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/yuvrajsharma1211/yuvrajsharma1211/output/github-contribution-grid-snake.svg"/>
+
+<img src="https://github.com/yuvrajsharma1211/yuvrajsharma1211/blob/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
 
 ---
 
-# ⭐ Quote I Believe In
+# ⚡ GitHub Metrics
 
-> "First, solve the problem. Then, write the code."
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuvrajsharma1211&theme=github_dark"/>
+
+</p>
 
 ---
 
-⭐ From **Yuvraj Sharma**
+# 💡 Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ☕ Support
+
+<p align="center">
+
+<a href="https://github.com/yuvrajsharma1211">
+<img src="https://img.shields.io/badge/⭐-Star%20my%20Repositories-yellow?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+
+💙 First, solve the problem. Then, write the code.
+
+</h3>
+
+<h2 align="center">
+
+⭐ From Yuvraj Sharma
+
+</h2>
