@@ -104,14 +104,21 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# 📊 GitHub Profile Summary
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yuvrajsharma1211&theme=algolia&no-frame=true&column=4"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuvrajsharma1211&theme=github_dark" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuvrajsharma1211&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuvrajsharma1211&theme=github_dark" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuvrajsharma1211&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yuvrajsharma1211&theme=github_dark&utcOffset=5.5" width="48%" />
+</p>
 ---
 
 # 📊 GitHub Statistics
