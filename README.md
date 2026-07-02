@@ -46,23 +46,23 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/yuvraj-sharma-5a8603291">
+<a href="https://www.linkedin.com/in/yuvraj-sharma-5a8603291" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
-<a href="https://leetcode.com/u/warrior01_/">
-<img src="https://skillicons.dev/icons?i=leetcode" width="55"/>
+<a href="https://leetcode.com/u/warrior01_/" target="_blank">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="55"/>
 </a>
 
-<a href="https://codeforces.com/profile/yuvii12">
+<a href="https://codeforces.com/profile/yuvii12" target="_blank">
 <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="55"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/user/yuv_raaj1212">
+<a href="https://www.geeksforgeeks.org/user/yuv_raaj1212" target="_blank">
 <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="55"/>
 </a>
 
-<a href="https://www.hackerrank.com/profile/yuvraj_as9001">
+<a href="https://www.hackerrank.com/profile/yuvraj_as9001" target="_blank">
 <img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="55"/>
 </a>
 
